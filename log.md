@@ -18,3 +18,65 @@ CS50 Harvard - HTML, CSS, TCP/IP
 
 **Thoughts** 
 Did not make enough time to spend a solid handful or hours coding. Still made time for an hour of research/study. 
+
+### Day 3: Oct 18, Friday
+
+**Today's Progress**: 
+Spent an hour or two reading Pragmatic Programming and revisiting LPTHW
+
+**Thoughts**
+Relaxing in Punta Gorda
+
+
+### Day 4: Oct 19, Saturday
+
+**Today's Progress**: 
+More reading Pragmatic Programming
+Working on blog project html, buttons
+
+**Thoughts** 
+Need to log more hours on  the keys this week.
+
+
+### Day 5: Oct 20, Sunday
+
+**Today's Progress**: 
+Read Pragmatic Programming before bed. Didn't write any code today. 
+
+**Thoughts** 
+Ready to put in a solid week of learning! 
+
+
+### Day 6 Oct 21, Monday
+
+**Today's Progress**: 
+LPTHW series ex5-9 review and refresh. 
+variables, printing, 
+
+**Thoughts** 
+Still picking up subtleties that I initially did not catch or understand.
+Going over LPTHW again is worthwhile. 
+Felt good to type a lot of code, was able to tune in for solid blocks of time. 
+
+### Day 7 Oct 22, Tuesday
+
+**Today's Progress**: 
+LPTHW ex10-14 review and refresh
+taking input from users
+parameters & variables 
+importing modules
+learded about pydoc
+
+**Thoughts** 
+Super cool that python automatically evaluates the expression and identifies if user entered a string or a numbered list
+Functions & Attributes 
+25 minute focus intervals seem to work best. 
+
+
+
+
+
+
+
+
+
