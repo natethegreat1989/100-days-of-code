@@ -66,6 +66,7 @@ taking input from users
 parameters & variables 
 importing modules
 learded about pydoc
+Started reading Clean Code:
 
 **Thoughts** 
 Super cool that python automatically evaluates the expression and identifies if user entered a string or a numbered list
