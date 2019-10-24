@@ -73,7 +73,16 @@ Super cool that python automatically evaluates the expression and identifies if 
 Functions & Attributes 
 25 minute focus intervals seem to work best. 
 
+### Day 8 Oct 23, Wednesday
 
+**Today's Progress**: 
+LPTHW ex15-16 reading and writing files
+
+**Thoughts** 
+Thinking about the different uses of input vs argv.
+Study more on functions & methods
+reading and writing files. Wondering how to remember parameters or be more aware of all the diff types. 
+marveling at the true power of standing on the shoulders of giants.
 
 
 
