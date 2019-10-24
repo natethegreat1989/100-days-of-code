@@ -47,7 +47,7 @@ Read Pragmatic Programming before bed. Didn't write any code today.
 Ready to put in a solid week of learning! 
 
 
-### Day 6 Oct 21, Monday
+### Day 6: Oct 21, Monday
 
 **Today's Progress**: 
 LPTHW series ex5-9 review and refresh. 
@@ -58,7 +58,7 @@ Still picking up subtleties that I initially did not catch or understand.
 Going over LPTHW again is worthwhile. 
 Felt good to type a lot of code, was able to tune in for solid blocks of time. 
 
-### Day 7 Oct 22, Tuesday
+### Day 7: Oct 22, Tuesday
 
 **Today's Progress**: 
 LPTHW ex10-14 review and refresh
@@ -73,7 +73,7 @@ Super cool that python automatically evaluates the expression and identifies if 
 Functions & Attributes 
 25 minute focus intervals seem to work best. 
 
-### Day 8 Oct 23, Wednesday
+### Day 8: Oct 23, Wednesday
 
 **Today's Progress**: 
 LPTHW ex15-16 reading and writing files
@@ -84,7 +84,7 @@ Study more on functions & methods
 reading and writing files. Wondering how to remember parameters or be more aware of all the diff types. 
 marveling at the true power of standing on the shoulders of giants.
 
-### Day 9 Oct 24, Thursday
+### Day 9: Oct 24, Thursday
 
 **Today's Progress**: 
 using other modules
