@@ -84,9 +84,16 @@ Study more on functions & methods
 reading and writing files. Wondering how to remember parameters or be more aware of all the diff types. 
 marveling at the true power of standing on the shoulders of giants.
 
+### Day 9 Oct 24, Thursday
 
+**Today's Progress**: 
+using other modules
+creating functions and different ways of calling them
 
-
+**Thoughts** 
+What other kinds of modules can I import and what do they do? 
+f-strings are great
+othogonality of code
 
 
 
