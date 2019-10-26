@@ -95,5 +95,12 @@ What other kinds of modules can I import and what do they do?
 f-strings are great
 othogonality of code
 
+### Day 10: Oct 25, Friday
 
+**Today's Progress**: 
+More work on functions, passing arguments, fun with different variables than within the function. 
+Starting to fuck with React Native. Using good mental models to learn adjacent technologies. 
+Messing around with open exchange API's
 
+**Thoughts** 
+Kind of annoying when instructors or tutorials use some kind of code simulator or whatever. Gotta get used to different environment setups. 
