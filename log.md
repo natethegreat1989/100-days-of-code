@@ -103,4 +103,15 @@ Starting to fuck with React Native. Using good mental models to learn adjacent t
 Messing around with open exchange API's
 
 **Thoughts** 
-Kind of annoying when instructors or tutorials use some kind of code simulator or whatever. Gotta get used to different environment setups. 
+Kind of annoying when instructors or tutorials use some kind of code simulator or whatever. Gotta get used to different environment setups.
+
+### Day 11: Oct 26, Saturday
+
+**Today's Progress**: 
+Calling functions within themselves 
+encoding and decoding bytes
+
+**Thoughts** 
+How imperative it is to write down and research ideas/topics/symbols I don't understand. 
+
+
