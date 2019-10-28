@@ -112,6 +112,18 @@ Calling functions within themselves
 encoding and decoding bytes
 
 **Thoughts** 
-How imperative it is to write down and research ideas/topics/symbols I don't understand. 
+How imperative it is to write down and research ideas/topics/symbols I don't understand.
+
+### Day 12: Oct 27, Sunday
+
+**Today's Progress**: 
+requests from API - openexchanges USD converter app.
+Learning a bit of Ruby
+
+**Thoughts** 
+API's are fucking easy...
+Ruby and python are kinda similar. How are they dissimilar? 
+
+
 
 
