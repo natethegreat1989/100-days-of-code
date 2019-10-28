@@ -124,6 +124,14 @@ Learning a bit of Ruby
 API's are fucking easy...
 Ruby and python are kinda similar. How are they dissimilar? 
 
+### Day 13: Oct 28, Monday
+
+**Today's Progress**: 
+More exercises with functions. Differnt ways of getting data into strings. f-string, getting lists in using .format(*all)
+LPTHW ex 23 & 24
+
+**Thoughts** 
+Remember that variables named within function are temporary, can be called something else outside the stack of the function. 
 
 
 
