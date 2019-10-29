@@ -142,6 +142,8 @@ Importing functions and using them through python shell
 Messing around with if / else / elif. Nesting them within each other. 
 Automate the Boring Stuff with Python - book
 Different modules avialable to help with web scraping, extracting html from web pages. - BeautifulSoup, Selenium
+building django application. making migrations
+building blog application. Got stuck trying to add comments to posts. 
 
 **Thoughts** 
 Learning fast, looking for projects that take less than 2-3 hours to build. Trying to get away from doing tutorials. Still difficult to design and impliment own ideas. Need to start spending a little more time with HTML and CSS.
