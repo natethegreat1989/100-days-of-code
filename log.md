@@ -133,7 +133,18 @@ Checked out flask and bottle frameworks
 The Pragmatic Programmer 
 
 **Thoughts** 
-Remember that variables named within function are temporary, can be called something else outside the stack of the function. 
+Remember that variables named within function are temporary, can be called something else outside the stack of the function.
+
+### Day 14: Oct 29, Tuesday
+
+**Today's Progress**: 
+Importing functions and using them through python shell
+Messing around with if / else / elif. Nesting them within each other. 
+Automate the Boring Stuff with Python - book
+Different modules avialable to help with web scraping, extracting html from web pages. - BeautifulSoup, Selenium
+
+**Thoughts** 
+Learning fast, looking for projects that take less than 2-3 hours to build. Trying to get away from doing tutorials. Still difficult to design and impliment own ideas. Need to start spending a little more time with HTML and CSS.
 
 
 
