@@ -148,5 +148,14 @@ building blog application. Got stuck trying to add comments to posts.
 **Thoughts** 
 Learning fast, looking for projects that take less than 2-3 hours to build. Trying to get away from doing tutorials. Still difficult to design and impliment own ideas. Need to start spending a little more time with HTML and CSS.
 
+### Day 15: Oct 30, Wednesday
 
+**Today's Progress**: 
+Starting django project and app, db model, routing urls and templates.
+Blender 3d animation tutorial 
+
+**Thoughts** 
+Lots to remember with building projects and getting stable website set up for customization. 
+Getting a bit tedious to keep doing tutorials, though I'm learning different ways of doing the same thing - setting up a django project.
+Need to work towards more self created building. How much of coding is "building it yourself" vs using someone else's frameworks, etc. 
 
