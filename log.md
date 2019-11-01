@@ -159,3 +159,11 @@ Lots to remember with building projects and getting stable website set up for cu
 Getting a bit tedious to keep doing tutorials, though I'm learning different ways of doing the same thing - setting up a django project.
 Need to work towards more self created building. How much of coding is "building it yourself" vs using someone else's frameworks, etc. 
 
+### Day 16: Oct 31, Thursday
+
+**Today's Progress**: 
+Refactoring the django backend to the bootstrap frontend. Created some models. 
+Talked product & design, networked @ Venture Cafe. 
+
+**Thoughts** 
+Strong network at Venture Cafe. Need to develop a method and process for quickly remembering all the refactoring that needs to happen between html, urls, and creating models. Need more hours on the keys. 
