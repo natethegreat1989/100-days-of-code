@@ -166,4 +166,12 @@ Refactoring the django backend to the bootstrap frontend. Created some models.
 Talked product & design, networked @ Venture Cafe. 
 
 **Thoughts** 
-Strong network at Venture Cafe. Need to develop a method and process for quickly remembering all the refactoring that needs to happen between html, urls, and creating models. Need more hours on the keys. 
+Strong network at Venture Cafe. Need to develop a method and process for quickly remembering all the refactoring that needs to happen between html, urls, and creating models. Need more hours on the keys.
+
+### Day 17: Nov 1, Friday
+
+**Today's Progress**: 
+More code refactoring on blog - working on post detail views, next and previous buttons, getting sidebar stuff connected. 
+
+**Thoughts** 
+Not too many thoughts today. A bit mentally zapped. 
