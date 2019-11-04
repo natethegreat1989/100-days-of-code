@@ -175,3 +175,27 @@ More code refactoring on blog - working on post detail views, next and previous 
 
 **Thoughts** 
 Not too many thoughts today. A bit mentally zapped. 
+
+### Day 18: Nov 2, Saturday
+
+**Today's Progress**: 
+A little bit of code, but mostly messing with @blender_org #3d 
+
+**Thoughts** 
+Interestingly enough, blender uses #python to power it's engine. So that's cool.
+
+### Day 19: Nov 3, Sunday
+
+**Today's Progress**: 
+Implimented TinyMCE on blog project, post commenting functionality, reversing url back to page after submission. 
+
+**Thoughts**
+need to start pushing project to git to protect project stability.
+
+### Day 20: Nov 4, Monday
+
+**Today's Progress**: 
+Review of Classes key=value pairs, objects, attributes... 
+
+**Thoughts** 
+
