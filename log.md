@@ -198,4 +198,15 @@ need to start pushing project to git to protect project stability.
 Review of Classes key=value pairs, objects, attributes... 
 
 **Thoughts** 
+Today thoughts escape me
+
+### Day 21: Nov 5, Tuesday
+
+**Today's Progress**: 
+More review of creating classes and working with functions and objects. #lpthw
+User sign up and login - with success message upon sign up. 
+
+**Thoughts** 
+Making stronger effort to make new branches when I'm altering code - I don't want to fuck up good code that I've already written. 
+
 
