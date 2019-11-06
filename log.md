@@ -207,6 +207,13 @@ More review of creating classes and working with functions and objects. #lpthw
 User sign up and login - with success message upon sign up. 
 
 **Thoughts** 
-Making stronger effort to make new branches when I'm altering code - I don't want to fuck up good code that I've already written. 
+Making stronger effort to make new branches when I'm altering code - I don't want to fuck up good code that I've already written.
 
+### Day 22: Nov 6, Wednesday
+
+**Today's Progress**: 
+User email and password update forms, authenications. 
+
+**Thoughts** 
+Tricky connecting email to be sent for password reset link. Kinda fried today. Need to blast some plateau. 
 
