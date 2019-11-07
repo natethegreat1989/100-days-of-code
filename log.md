@@ -217,3 +217,11 @@ User email and password update forms, authenications.
 **Thoughts** 
 Tricky connecting email to be sent for password reset link. Kinda fried today. Need to blast some plateau. 
 
+### Day 23: Nov 7, Thursday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+
