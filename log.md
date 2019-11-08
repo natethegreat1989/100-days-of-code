@@ -220,8 +220,18 @@ Tricky connecting email to be sent for password reset link. Kinda fried today. N
 ### Day 23: Nov 7, Thursday
 
 **Today's Progress**: 
+Heroku hell, Blog project is in a ok-ish place to move forward. 
 
 **Thoughts** 
+Need to consolidate and bust up some Stoppers/Errors that are keeping me from progressing.
+
+### Day 24: Nov 8, Friday
+
+**Today's Progress**: 
+Started new Personal Portfolio project. Got some CSS and html frontend set up.
+
+**Thoughts** 
+FreeCodeAcademy has some solid HTML/CSS material - go over and use as resource. 
 
 
 
