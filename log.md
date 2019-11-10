@@ -241,4 +241,12 @@ Responsive web design basics that I've been meaning to do. HTML, CSS core concep
 **Thoughts** 
 css is just a bunch of fancy ways to override or create visual inheritences
 
+### Day 26: Nov 10, Sunday
+
+**Today's Progress**: 
+Css Flexbot, responsive web design, and css grid fundamentals. 
+Applying new shit to projects. 
+
+**Thoughts** 
+freeCodeCamp is super easy, blasting thruogh material to simply become aware of certain concepts so I can lookup later when needed - not be completely virgin info. Started increasing my "focus sprints" to 35 minutes. Can do 30 min or so unbroken. 
 
