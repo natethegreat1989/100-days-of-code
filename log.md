@@ -233,5 +233,12 @@ Started new Personal Portfolio project. Got some CSS and html frontend set up.
 **Thoughts** 
 FreeCodeAcademy has some solid HTML/CSS material - go over and use as resource. 
 
+### Day 25: Nov 9, Saturday
+
+**Today's Progress**: 
+Responsive web design basics that I've been meaning to do. HTML, CSS core concepts. 
+
+**Thoughts** 
+css is just a bunch of fancy ways to override or create visual inheritences
 
 
