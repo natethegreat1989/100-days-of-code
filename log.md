@@ -250,3 +250,21 @@ Applying new shit to projects.
 **Thoughts** 
 freeCodeCamp is super easy, blasting thruogh material to simply become aware of certain concepts so I can lookup later when needed - not be completely virgin info. Started increasing my "focus sprints" to 35 minutes. Can do 30 min or so unbroken. 
 
+### Day 27: Nov 11, Monday
+
+**Today's Progress**: 
+CSS and HTML fundamentals.  
+
+**Thoughts** 
+need to find better solutions for quickly implimenting front and backends. Still don't have good grasp. 
+
+### Day 27: Nov 12, Tuesday
+
+**Today's Progress**: 
+Boostrap CSS and HTML study. Attempting to find good walkthrough to get blog framework / models how I want. 
+
+**Thoughts** 
+zapped - need to get off the computer for a bit.
+
+
+
