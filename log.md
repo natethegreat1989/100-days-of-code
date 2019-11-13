@@ -266,5 +266,13 @@ Boostrap CSS and HTML study. Attempting to find good walkthrough to get blog fra
 **Thoughts** 
 zapped - need to get off the computer for a bit.
 
+### Day 28: Nov 13, Wednesday
+
+**Today's Progress**: 
+Working on blog functionality - pushed new project to git. Working on adding new models.
+
+**Thoughts** 
+Need to get better at inserting custom/ self created blocks of code into main body without screwing up other things. Testing?
+
 
 
