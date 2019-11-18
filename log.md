@@ -274,5 +274,41 @@ Working on blog functionality - pushed new project to git. Working on adding new
 **Thoughts** 
 Need to get better at inserting custom/ self created blocks of code into main body without screwing up other things. Testing?
 
+### Day 29: Nov 14, Thursday
 
+**Today's Progress**: 
+LPTHW
+
+**Thoughts** 
+Lagging on daily updates, need to place more time in routine for journaling & updates.
+
+### Day 30: Nov 15, Friday
+
+**Today's Progress**: 
+tutorial hell, stuck between thinking I know what to do and blowing up my project when I implement my own code. 
+
+**Thoughts** 
+frustrated - gotta bust a plateau 
+
+### Day 31: Nov 16, Saturday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+### Day 32: Nov 17, Sunday
+
+**Today's Progress**: 
+first day writing no lines of code since start - taking a small #python break. however, lots of reading with new #books delivered today. 
+
+**Thoughts** 
+Rest my head
+
+### Day 33: Nov 18, Monday
+
+**Today's Progress**: 
+Started Learn Ruby the hard way - installed ruby learning what variables and strings look like. Interestingly not very different from python at all. 
+
+**Thoughts** 
+Ruby is V similar to python. Need to start committing everything to git. keep myself honest with metrics. Build the personal improvement tracker. 
 
