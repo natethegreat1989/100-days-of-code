@@ -308,7 +308,10 @@ Rest my head
 
 **Today's Progress**: 
 Started Learn Ruby the hard way - installed ruby learning what variables and strings look like. Interestingly not very different from python at all. 
+Created new project - personal portfolio. Altered some html. Having hard time setting up superuser and deploying.
 
 **Thoughts** 
 Ruby is V similar to python. Need to start committing everything to git. keep myself honest with metrics. Build the personal improvement tracker. 
+
+Looking for easy ways to get sites deployed for free. Heroku??
 
