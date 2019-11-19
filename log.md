@@ -315,3 +315,11 @@ Ruby is V similar to python. Need to start committing everything to git. keep my
 
 Looking for easy ways to get sites deployed for free. Heroku??
 
+### Day 34: Nov 19, Tuesday
+
+**Today's Progress**: 
+More portfolio site html edits and getting heroku deployment set up. Heroku was a complete bitch, but I think I understand what it's doing a little better. 
+
+**Thoughts** 
+Time to crush out a bunch of sites. 
+
