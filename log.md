@@ -323,3 +323,11 @@ More portfolio site html edits and getting heroku deployment set up. Heroku was 
 **Thoughts** 
 Time to crush out a bunch of sites. 
 
+### Day 35: Nov 20, Wednesday
+
+**Today's Progress**: 
+Started another website project - a marketing / portfolio website for Noah's Tattoo business. Got dirs set up, trying new templates set up. lots of html, css figeting. Need digital assets. 
+
+**Thoughts** 
+Gotta get a few projects going that have API's and more complex computing. 
+
