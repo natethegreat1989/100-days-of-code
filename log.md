@@ -331,3 +331,10 @@ Started another website project - a marketing / portfolio website for Noah's Tat
 **Thoughts** 
 Gotta get a few projects going that have API's and more complex computing. 
 
+### Day 36: Nov 21, Thursday
+
+**Today's Progress**: 
+More html edits on Tattoo marketing website. Incorporating links direct from insta. In the morning worked on some LPTHW basic object oriented design and analysis.
+
+**Thoughts** 
+Need to find project to work on that uses more advanced logic and utilizes modeling power of django. CLimate risk app? 
