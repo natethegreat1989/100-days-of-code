@@ -338,3 +338,20 @@ More html edits on Tattoo marketing website. Incorporating links direct from ins
 
 **Thoughts** 
 Need to find project to work on that uses more advanced logic and utilizes modeling power of django. CLimate risk app? 
+
+### Day 37: Nov 22, Friday
+
+**Today's Progress**: 
+Found scotch.io and read a lot of their coursework - sorting - looking for applicable material for projects. 
+
+**Thoughts** 
+so much FREE material out there. It's all about sorting through the bullshit. 
+
+### Day 38: Nov 23, Saturday
+
+**Today's Progress**: 
+Scotch.io python requests - figuring out how to make simple webapps that do stuff with data I take from other places. 
+
+**Thoughts** 
+if you're trying to learn to code and not meditating you're wasting a lot of time. mindfulness helps you realize faster when you're not being present - ie learning something new. 
+
