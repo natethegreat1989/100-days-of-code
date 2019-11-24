@@ -355,3 +355,12 @@ Scotch.io python requests - figuring out how to make simple webapps that do stuf
 **Thoughts** 
 if you're trying to learn to code and not meditating you're wasting a lot of time. mindfulness helps you realize faster when you're not being present - ie learning something new. 
 
+### Day 39: Nov 24, Sunday
+
+**Today's Progress**: 
+Scotch.io seems to be a little bit of waste of time. Moving on to attacking roadblocks in project progress analytically. 
+Searching for better understanding of model view template paradigm. how models import and interract. 
+
+**Thoughts** 
+a little stuck. 
+
