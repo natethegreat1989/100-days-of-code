@@ -370,4 +370,4 @@ a little stuck.
 back at django model view template basics, creating models, url paths. going through the django documentation - scouring - extracting a lot of good stuff.
 
 **Thoughts** 
-5th time through the docs - "ahhhaaa ok!"
+5th time through the docs - "ahhhaaa ok!" It's always a spelling error-dummy 
