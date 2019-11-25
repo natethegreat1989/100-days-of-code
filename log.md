@@ -364,3 +364,10 @@ Searching for better understanding of model view template paradigm. how models i
 **Thoughts** 
 a little stuck. 
 
+### Day 40: Nov 25, Monday
+
+**Today's Progress**: 
+back at django model view template basics, creating models, url paths. going through the django documentation - scouring - extracting a lot of good stuff.
+
+**Thoughts** 
+5th time through the docs - "ahhhaaa ok!"
