@@ -371,3 +371,10 @@ back at django model view template basics, creating models, url paths. going thr
 
 **Thoughts** 
 5th time through the docs - "ahhhaaa ok!" It's always a spelling error-dummy 
+
+### Day 41: Nov 26, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
