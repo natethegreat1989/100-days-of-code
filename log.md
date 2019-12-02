@@ -375,6 +375,12 @@ back at django model view template basics, creating models, url paths. going thr
 ### Day 41: Nov 26, Tuesday
 
 **Today's Progress**: 
+started working through blog project build out again - going through each segment and taking notes - modifying as I go along
+
+### Day 47: Dec 1, Sunday
+
+**Today's Progress**: 
+creating updating and delete views of models - working with special decorators to modify if user that is loggedin/out sees a particular view - ie delete and update
 
 **Thoughts** 
-
+Though coding output has been around an hour or two a day - was good to take a little time off from many hour learning blocks - felt need to recharge the batteries. Time to get after it this week. 
