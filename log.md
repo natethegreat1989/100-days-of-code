@@ -384,3 +384,20 @@ creating updating and delete views of models - working with special decorators t
 
 **Thoughts** 
 Though coding output has been around an hour or two a day - was good to take a little time off from many hour learning blocks - felt need to recharge the batteries. Time to get after it this week. 
+
+### Day 48: Dec 2, Monday
+
+**Today's Progress**: 
+special methods / dunders - init, repr, str. Class and static methods. 
+
+**Thoughts** 
+Real tired of doing tuts, need to apply more logic and design to my own projects. 
+
+
+### Day 49: Dec 3, Tuesday
+
+**Today's Progress**: 
+Made little card deck / shuffle application studying OOP, creating classes/methods.
+
+**Thoughts** 
+still figuring out Model/view/template interactions. 
