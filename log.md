@@ -400,4 +400,13 @@ Real tired of doing tuts, need to apply more logic and design to my own projects
 Made little card deck / shuffle application studying OOP, creating classes/methods.
 
 **Thoughts** 
-still figuring out Model/view/template interactions. 
+still figuring out Model/view/template interactions.
+
+### Day 51: Dec 5, Thursday
+
+**Today's Progress**: 
+Learning to design various python objects in order to build an idea from scratch. LPTHW - creating basic class and function structures using test driven development. 
+
+**Thoughts** 
+One of those days, feel dumb learning - then blam - I'll feel smart again in a day or two. push through 
+
