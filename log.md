@@ -410,3 +410,10 @@ Learning to design various python objects in order to build an idea from scratch
 **Thoughts** 
 One of those days, feel dumb learning - then blam - I'll feel smart again in a day or two. push through 
 
+### Day 52: Dec 6, Friday
+
+**Today's Progress**: 
+started new project rango - building projects, directory, models, trying to learn how to get voting logic and more advanced DB models in place in my own projects. Gettings views and apps instatiated. 
+
+**Thoughts** 
+rango project is cool, very detailed. 
