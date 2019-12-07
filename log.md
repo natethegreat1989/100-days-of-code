@@ -417,3 +417,11 @@ started new project rango - building projects, directory, models, trying to lear
 
 **Thoughts** 
 rango project is cool, very detailed. 
+
+### Day 53: Dec 7, Saturday
+
+**Today's Progress**: 
+continuing through rango project - creating url patterns.
+
+**Thoughts** 
+just realized that a big part of my difficulties are from using different django versions - for example just realized that the url module used in some tutorials has been depricated and now paths is the common way of routing urlpatters 
