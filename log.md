@@ -413,7 +413,7 @@ One of those days, feel dumb learning - then blam - I'll feel smart again in a d
 ### Day 52: Dec 6, Friday
 
 **Today's Progress**: 
-started new project rango - building projects, directory, models, trying to learn how to get voting logic and more advanced DB models in place in my own projects. Gettings views and apps instatiated. 
+started new project rango - building projects, directory, models, trying to learn how to get voting logic and more advanced DB models in place in my own projects. Gettings views and apps instatiated. Really hammering home the idea of importing each seperate module where it's needed model -> views -> urls -> templates
 
 **Thoughts** 
 rango project is cool, very detailed. 
