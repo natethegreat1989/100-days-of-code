@@ -433,3 +433,11 @@ Keeping on with tango rango tutorial. Implimenting models, creating admin access
 
 **Thoughts** 
 Hmmm - not much really. Still digesting everything that goes into models, need to read more on all diff variances. 
+
+### Day 55: Dec 9, Monday
+
+**Today's Progress**: 
+Moving through more work with creating db models, template, views
+
+**Thoughts** 
+really MTV is 5 steps. 
