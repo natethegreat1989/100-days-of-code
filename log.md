@@ -425,3 +425,11 @@ continuing through rango project - creating url patterns. Really trying to diges
 
 **Thoughts** 
 just realized that a big part of my difficulties are from using different django versions - for example just realized that the url module used in some tutorials has been depricated and now paths is the common way of routing urlpatters 
+
+### Day 54: Dec 8, Sunday
+
+**Today's Progress**: 
+Keeping on with tango rango tutorial. Implimenting models, creating admin access.
+
+**Thoughts** 
+Hmmm - not much really. Still digesting everything that goes into models, need to read more on all diff variances. 
