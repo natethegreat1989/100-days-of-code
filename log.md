@@ -437,7 +437,7 @@ Hmmm - not much really. Still digesting everything that goes into models, need t
 ### Day 55: Dec 9, Monday
 
 **Today's Progress**: 
-Moving through more work with creating db models, template, views
+Moving through more work with creating db models, template, views. Setting up forms - creating model forms. more work with forms.
 
 **Thoughts** 
-really MTV is 5 steps. 
+working with forms is similar to implimenting other models. sleepy
