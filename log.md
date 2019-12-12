@@ -441,3 +441,11 @@ Moving through more work with creating db models, template, views. Setting up fo
 
 **Thoughts** 
 working with forms is similar to implimenting other models. sleepy
+
+### Day 57: Dec 11, Wednesday
+
+**Today's Progress**: 
+Working on parameterized url mapping - having a hard time getting the page creation form to send input to right url routes. thinking in circles. 
+
+**Thoughts** 
+Gotta take a step back and evaluate the project and what it does as a whole. 
