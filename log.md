@@ -449,3 +449,11 @@ Working on parameterized url mapping - having a hard time getting the page creat
 
 **Thoughts** 
 Gotta take a step back and evaluate the project and what it does as a whole. 
+
+### Day 59: Dec 13, Friday
+
+**Today's Progress**: 
+creating seo friendly urls with parameters, sending emails from django, adding pagination 
+
+**Thoughts** 
+difficult to get the gmail less secure apps password to work. 
