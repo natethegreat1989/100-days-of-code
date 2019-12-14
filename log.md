@@ -456,4 +456,12 @@ Gotta take a step back and evaluate the project and what it does as a whole.
 creating seo friendly urls with parameters, sending emails from django, adding pagination 
 
 **Thoughts** 
-difficult to get the gmail less secure apps password to work. 
+difficult to get the gmail less secure apps password to work.
+
+### Day 60: Dec 14, Saturday
+
+**Today's Progress**: 
+adding comments and "tags" using more complex Querysets. Using tags to help find similar posts/subjects
+
+**Thoughts** 
+pretty nice that django has so many built in modules like "taggit"
