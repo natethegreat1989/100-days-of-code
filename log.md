@@ -465,3 +465,11 @@ adding comments and "tags" using more complex Querysets. Using tags to help find
 
 **Thoughts** 
 pretty nice that django has so many built in modules like "taggit"
+
+### Day 62: Dec 16, Monday
+
+**Today's Progress**: 
+worked on weighted queries, stemming and ranking, trigram similarity with postgreSQL. 
+
+**Thoughts** 
+psql is cool, super powerful. still not really sure how to use sql shell though. 
