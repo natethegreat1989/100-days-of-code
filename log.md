@@ -481,3 +481,11 @@ got them django user password update, reset, and reset email written up. seems t
 
 **Thoughts** 
 fried 
+
+### Day 64: Dec 18, Wednesday
+
+**Today's Progress**: 
+setting up social authentication and login. Need to fix my models so that when a new user is created it also makes a new profile. not sure why this works this way.
+
+**Thoughts** 
+django social auths are pretty cool, still working out the kinks. 
