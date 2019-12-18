@@ -473,3 +473,11 @@ worked on weighted queries, stemming and ranking, trigram similarity with postgr
 
 **Thoughts** 
 psql is cool, super powerful. still not really sure how to use sql shell though. 
+
+### Day 63: Dec 17, Tuesday
+
+**Today's Progress**: 
+got them django user password update, reset, and reset email written up. seems to be some issues with token generation with email.
+
+**Thoughts** 
+fried 
