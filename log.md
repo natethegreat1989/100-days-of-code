@@ -489,3 +489,11 @@ setting up social authentication and login. Need to fix my models so that when a
 
 **Thoughts** 
 django social auths are pretty cool, still working out the kinks. 
+
+### Day 65: Dec 19, Thursday
+
+**Today's Progress**: 
+started working on implimenting a jquery bookmarklet that captures different html elements. 
+
+**Thoughts** 
+first time working with java script with any kind of complexity. 
