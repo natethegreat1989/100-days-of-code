@@ -497,3 +497,11 @@ started working on implimenting a jquery bookmarklet that captures different htm
 
 **Thoughts** 
 first time working with java script with any kind of complexity. 
+
+### Day 67: Dec 21 Saturday
+
+**Today's Progress**: 
+spent the last few days working on bookmarklet. mainly the jquery and html to support the Like function and main bookmarklet functionality. Javascript is cooky - need to spend more time working there seeing how the client side jQuery can do a lot of stuff.
+
+**Thoughts** 
+cool to see something simple like the bookmarklet being used for something in a project other than bookmarking. 
