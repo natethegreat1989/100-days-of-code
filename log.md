@@ -506,10 +506,18 @@ spent the last few days working on bookmarklet. mainly the jquery and html to su
 **Thoughts** 
 cool to see something simple like the bookmarklet being used for something in a project other than bookmarking. 
 
-### Day 70: Dec 24 Saturday
+### Day 70: Dec 24 Tuesday
 
 **Today's Progress**: 
 got like button working - set up intermediary model for user follow system. Building detail and list views of users. 
 
 **Thoughts** 
 also working on some meta planning on where to go - what to do next. 
+
+### Day 71: Dec 25 Wednesday
+
+**Today's Progress**: 
+working on User "like" buttons, follower/following functionality, followers activity stream. using functions imported from other modules. still working on getting the user activity stream working. Using contentype freameworks. 
+
+**Thoughts** 
+Thinking about how functions can be imported and used within other modules and functions. 
