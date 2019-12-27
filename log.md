@@ -521,3 +521,11 @@ working on User "like" buttons, follower/following functionality, followers acti
 
 **Thoughts** 
 Thinking about how functions can be imported and used within other modules and functions. 
+
+### Day 72: Dec 26 Thursday
+
+**Today's Progress**: 
+stuck on implimenting Redis database - do I need this or is it depricated? I don't know. Found Fullstackpython.com that has some very good information in regards to mental models of programming abstractions. 
+
+**Thoughts** 
+looking for some interesting projects that are less web dev focused. insterested in some of the more complex functions with data. 
