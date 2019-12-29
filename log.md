@@ -528,4 +528,12 @@ Thinking about how functions can be imported and used within other modules and f
 stuck on implimenting Redis database - do I need this or is it depricated? I don't know. Found Fullstackpython.com that has some very good information in regards to mental models of programming abstractions. 
 
 **Thoughts** 
-looking for some interesting projects that are less web dev focused. insterested in some of the more complex functions with data. 
+looking for some interesting projects that are less web dev focused. insterested in some of the more complex functions with data.
+
+### Day 74: Dec 28 Saturday
+
+**Today's Progress**: 
+started working on a Store application with products, categories, and shopping cart. forming muscle memory with starting projects, setting up apps, settings, models, views, and templates. 
+
+**Thoughts** 
+working to be able to crank out simple webapps. maybe do 1 project a day as goal? 
