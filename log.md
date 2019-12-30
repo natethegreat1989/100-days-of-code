@@ -537,3 +537,11 @@ started working on a Store application with products, categories, and shopping c
 
 **Thoughts** 
 working to be able to crank out simple webapps. maybe do 1 project a day as goal? 
+
+### Day 75: Dec 29 Sunday
+
+**Today's Progress**: 
+working with django sessions to build a shopping cart.
+
+**Thoughts** 
+Realized I really don't know OOP, looking for better understanding of Classes, methods, and attributes. Need to understand core functionality. 
