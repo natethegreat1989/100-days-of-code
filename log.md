@@ -545,3 +545,11 @@ working with django sessions to build a shopping cart.
 
 **Thoughts** 
 Realized I really don't know OOP, looking for better understanding of Classes, methods, and attributes. Need to understand core functionality. 
+
+### Day 76: Dec 30 Monday
+
+**Today's Progress**: 
+lots of work on the shopping cart. Using celery to handle shopping cart messages, and context processors to handle the cart details across templates.
+
+**Thoughts** 
+crushing it, gotta get these sites built. more reps
