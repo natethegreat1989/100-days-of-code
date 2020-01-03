@@ -553,3 +553,11 @@ lots of work on the shopping cart. Using celery to handle shopping cart messages
 
 **Thoughts** 
 crushing it, gotta get these sites built. more reps
+
+### Day 79: Jan 2 Thursday
+
+**Today's Progress**: 
+spent the past few days unplugged reading about software design, specifically Desing Patters: Elements of Reusable Object Oriented Software
+
+**Thoughts** 
+was nice to get away from the screen, now it's time to build some real stuff. 
