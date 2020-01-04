@@ -561,3 +561,11 @@ spent the past few days unplugged reading about software design, specifically De
 
 **Thoughts** 
 was nice to get away from the screen, now it's time to build some real stuff. 
+
+### Day 80: Jan 3 Friday
+
+**Today's Progress**: 
+started another fresh project without using too much searching/documentation - got boostrap templates set up and models showing in templates. 
+
+**Thoughts** 
+edging more and more towards creating and serving custom models to templates - tryin got figure out how to get data from api and pass into models as post
