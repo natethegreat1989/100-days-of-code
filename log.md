@@ -569,3 +569,11 @@ started another fresh project without using too much searching/documentation - g
 
 **Thoughts** 
 edging more and more towards creating and serving custom models to templates - tryin got figure out how to get data from api and pass into models as post
+
+### Day 81: Jan 4 Saturday
+
+**Today's Progress**: 
+Built a simple bot using selenium to interact with webpages, finding certain html elements and interracting with them. 
+
+**Thoughts** 
+what are some cool little bot that I could make that interact with data in useful ways? 
