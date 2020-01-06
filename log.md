@@ -577,3 +577,11 @@ Built a simple bot using selenium to interact with webpages, finding certain htm
 
 **Thoughts** 
 what are some cool little bot that I could make that interact with data in useful ways? 
+
+### Day 82: Jan 5 Sunday
+
+**Today's Progress**: 
+Researching about selenium and beautiful soup web scraping, also downloaded and started messing around in visual studio code editor. 
+
+**Thoughts** 
+How to scrape for valuable data and analyze to extract some insight. 
