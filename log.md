@@ -584,4 +584,12 @@ what are some cool little bot that I could make that interact with data in usefu
 Researching about selenium and beautiful soup web scraping, also downloaded and started messing around in visual studio code editor. 
 
 **Thoughts** 
-How to scrape for valuable data and analyze to extract some insight. 
+How to scrape for valuable data and analyze to extract some insight.
+
+### Day 83: Jan 6 Monday
+
+**Today's Progress**: 
+started another project making a website where registered users can create content to be "posted" or shared. Using mixins with class based views and user authentication to give permissions to certain user groups. 
+
+**Thoughts** 
+another project for the portfolio 
