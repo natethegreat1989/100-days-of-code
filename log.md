@@ -593,3 +593,11 @@ started another project making a website where registered users can create conte
 
 **Thoughts** 
 another project for the portfolio 
+
+### Day 84: Jan 7 Tuesday
+
+**Today's Progress**: 
+Lots of work on setting up views to handle different lesson modules. Created drag and drop feature to reorganize modules and lessons within views. Used Javascript widget and AJAX for asynchronous requests to store new ordering.
+
+**Thoughts** 
+no thoughts today
