@@ -601,3 +601,11 @@ Lots of work on setting up views to handle different lesson modules. Created dra
 
 **Thoughts** 
 no thoughts today
+
+### Day 86: Jan 9 Thursday
+
+**Today's Progress**: 
+frustrated with trying to use memcached and unpacking the .tar file - need to realize that some things will take longer than others. Somewhat annoyting that there are not many resources for windows.
+
+**Thoughts** 
+frustrated, going back to basics for a little while. 
