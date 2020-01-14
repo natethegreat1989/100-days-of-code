@@ -609,3 +609,11 @@ frustrated with trying to use memcached and unpacking the .tar file - need to re
 
 **Thoughts** 
 frustrated, going back to basics for a little while. 
+
+### Day 90: Jan 13 Monday
+
+**Today's Progress**: 
+spent the past few days reading about packaging projects for deployment.
+
+**Thoughts** 
+It's time to put something on the internet.
