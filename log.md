@@ -617,3 +617,11 @@ spent the past few days reading about packaging projects for deployment.
 
 **Thoughts** 
 It's time to put something on the internet.
+
+### Day 91: Jan 14 Tuesday
+
+**Today's Progress**: 
+Now have a pretty solid folder of "test" projects that are ready for nicer front ends. working on knitting together webflow frontend and UX with python/django backend. 
+
+**Thoughts** 
+let's see if we can't smash the two together. 
