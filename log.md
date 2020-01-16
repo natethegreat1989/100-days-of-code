@@ -625,3 +625,11 @@ Now have a pretty solid folder of "test" projects that are ready for nicer front
 
 **Thoughts** 
 let's see if we can't smash the two together. 
+
+### Day 92: Jan 15 Wednesday
+
+**Today's Progress**: 
+Got the webflow html, css, and js smashed in with a couple django apps - blog and simple static pages apps. still figuring out how to get images and forms synced up
+
+**Thoughts** 
+good idea to sit down and write out TODO list and study the docs the night before - that way can crush out commits the next day. 
