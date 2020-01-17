@@ -633,3 +633,11 @@ Got the webflow html, css, and js smashed in with a couple django apps - blog an
 
 **Thoughts** 
 good idea to sit down and write out TODO list and study the docs the night before - that way can crush out commits the next day. 
+
+### Day 93: Jan 16 Thursday
+
+**Today's Progress**: 
+getting links, static, and media files served.
+
+**Thoughts** 
+few more web development tasks to work on tomorrow to make things look nice, need to get ready for deployment.
