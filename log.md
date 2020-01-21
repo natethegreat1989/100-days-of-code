@@ -641,3 +641,11 @@ getting links, static, and media files served.
 
 **Thoughts** 
 few more web development tasks to work on tomorrow to make things look nice, need to get ready for deployment.
+
+### Day 97: Jan 20 Monday
+
+**Today's Progress**: 
+spent the weekend prepping for a consulting gig and specing out project requirements - wire frame of concept and basic app logic
+
+**Thoughts** 
+looking into how to integrate Square POS/booking system into project. 
