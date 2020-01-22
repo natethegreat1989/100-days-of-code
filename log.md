@@ -649,3 +649,11 @@ spent the weekend prepping for a consulting gig and specing out project requirem
 
 **Thoughts** 
 looking into how to integrate Square POS/booking system into project. 
+
+### Day 98: Jan 21 Tuesday
+
+**Today's Progress**: 
+working out design elements for client project, setting up Square booking & POS system.
+
+**Thoughts** 
+need to work on final html elements and get ready to deploy personal portfio
