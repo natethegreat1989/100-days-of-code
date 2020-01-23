@@ -657,3 +657,11 @@ working out design elements for client project, setting up Square booking & POS 
 
 **Thoughts** 
 need to work on final html elements and get ready to deploy personal portfio
+
+### Day 99: Jan 22 Wednesday
+
+**Today's Progress**: 
+more design elements and working on getting wysiwyg text editor into django admin.
+
+**Thoughts** 
+tomorrow is day 100
